@@ -1,6 +1,6 @@
 TASK
 
-- State, Use Effect, Promises,
+- State, Use Effect, API calls Promises,
 
 1. Show All User Data (the uglier the better)
 2. Display the name and the photo of a user as a UI component. <br />
